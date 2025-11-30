@@ -1,0 +1,7 @@
+alias ll='ls -l'
+alias l='ls -la'
+alias md='mkdir -p'
+alias ...='cd ../..'
+alias ..='cd ..'
+alias du1='du -h --max-depth=1'
+
